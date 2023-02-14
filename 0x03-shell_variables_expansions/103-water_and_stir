@@ -1,2 +1,2 @@
 #!/bin/bash
-paste d, - - | cut -d, -f1
+printf "%0\n" $(( $ ((5#$WATER | tr water 01234))) + $((5#$(echo$STIR | tr stir. 01234))) )) | tr 0123457 bestcholl
