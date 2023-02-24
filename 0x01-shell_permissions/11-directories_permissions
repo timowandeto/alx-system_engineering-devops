@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d -exec chmod 755 {}
+chown -h vincent:staff _hello
